@@ -4,4 +4,4 @@ Using machine learning models to recognize hand gestures of a host appearing in 
 
 # Architecture Diagram
 
-![image](https://user-images.githubusercontent.com/85055879/205152913-01672780-8bf1-48ff-9fbd-be6bca509683.png)
+![image](https://user-images.githubusercontent.com/85055879/205152994-9c24221d-edec-4e2a-b0ce-32b2766942b9.png)
